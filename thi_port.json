@@ -1,8 +1,8 @@
 {
-    "xiaofeng486": {
+    "xiaofeng516": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
         "isToPage": true,
-        "isAlert": true,
+        "isAlert": false,
         "adjustParams": [
             {
                 "name": "deposit-success",
