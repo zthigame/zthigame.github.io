@@ -1,179 +1,179 @@
 {
     "xiaofeng516": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
          "countryCodes": ["TI","PH","HK"],
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "8ozjol"
+                "value": "m6bh1t"
             },
             {
                 "name": "signup-success",
-                "value": "eghwz2"
+                "value": "315j27"
             },
             {
                 "name": "first-deposit-success",
-                "value": "hzukyr"
+                "value": "5ahare"
             },
             {
                 "name": "first-recharge-success",
-                "value": "wxsvo5"
+                "value": "hxbaf8"
             },
             {
                 "name": "register-success",
-                "value": "a033mw"
+                "value": "vo4hvl"
             },
             {
                 "name": "register",
-                "value": "djc0ii"
+                "value": "8odb3y"
             },
             {
                 "name": "firstDeposit",
-                "value": "24mnsg"
+                "value": "29hwwg"
             }
           
         ]
     },
     "xiaofeng517": {
         "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "adjustParams": [
            {
                 "name": "deposit-success",
-                "value": "z3zmef"
+                "value": "yj5f15"
             },
             {
                 "name": "signup-success",
-                "value": "nyvu98"
+                "value": "wmc7lh"
             },
             {
                 "name": "first-deposit-success",
-                "value": "jhb8o1"
+                "value": "k50kkj"
             },
             {
                 "name": "first-recharge-success",
-                "value": "wuu690"
+                "value": "3dsm46"
             },
             {
                 "name": "register-success",
-                "value": "a77ptz"
+                "value": "woqo5v"
             },
             {
                 "name": "register",
-                "value": "kp0xzn"
+                "value": "a71lpu"
             },
             {
                 "name": "firstDeposit",
-                "value": "mvidid"
+                "value": "hpdrmc"
             }
         ]
     },
     "xiaofeng518": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "30qwky"
+                "value": "qe69mm"
             },
             {
                 "name": "signup-success",
-                "value": "ua9ivd"
+                "value": "wh5ghm"
             },
             {
                 "name": "first-deposit-success",
-                "value": "8hxpsa"
+                "value": "7kbc0s"
             },
             {
                 "name": "first-recharge-success",
-                "value": "33018v"
+                "value": "n7oqxt"
             },
             {
                 "name": "register-success",
-                "value": "n3zkc3"
+                "value": "stunoh"
             },
             {
                 "name": "register",
-                "value": "glrgq5"
+                "value": "nrd0bm"
             },
             {
                 "name": "firstDeposit",
-                "value": "smhrpy"
+                "value": "6hguef"
             }
         ]
     },
     "xiaofeng519": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "5zi8ff"
+                "value": "1lqaeb"
             },
             {
                 "name": "signup-success",
-                "value": "wzzqcv"
+                "value": "bhi26f"
             },
             {
                 "name": "first-deposit-success",
-                "value": "nwss7u"
+                "value": "ntbmge"
             },
             {
                 "name": "first-recharge-success",
-                "value": "gu509l"
+                "value": "yzipn2"
             },
             {
                 "name": "register-success",
-                "value": "q3zpy6"
+                "value": "dpnvu9"
             },
             {
                 "name": "register",
-                "value": "ghpo5c"
+                "value": "jen1km"
             },
             {
                 "name": "firstDeposit",
-                "value": "ndt0sg"
+                "value": "8ixx2i"
             }
         ]
     },
     "xiaofeng520": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": true,
         "countryCodes": ["TI","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "smp91g"
+                "value": "mzvg8d"
             },
             {
                 "name": "signup-success",
-                "value": "f7mrb5"
+                "value": "rt6ku6"
             },
             {
                 "name": "first-deposit-success",
-                "value": "a4gyyr"
+                "value": "q4r4r0"
             },
             {
                 "name": "first-recharge-success",
-                "value": "mvkojv"
+                "value": "g0r2nv"
             },
             {
                 "name": "register-success",
-                "value": "grtxyw"
+                "value": "r90ie6"
             },
             {
                 "name": "register",
-                "value": "j45maj"
+                "value": "mllryi"
             },
             {
                 "name": "firstDeposit",
-                "value": "arqod1"
+                "value": "4q9uqd"
             }
         ]
     }
