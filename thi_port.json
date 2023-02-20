@@ -144,7 +144,7 @@
         "url": "https://www.jiliasia.com/?pid=50jilivip",
         "isToPage": true,
         "isAlert": true,
-        "countryCodes": ["HK","PH"],
+        "countryCodes": ["TI","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
