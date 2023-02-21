@@ -38,7 +38,7 @@
     },
     "xiaofeng517": {
         "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
         "adjustParams": [
            {
@@ -73,7 +73,7 @@
     },
     "xiaofeng518": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
         "adjustParams": [
             {
@@ -108,7 +108,7 @@
     },
     "xiaofeng519": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": true,
         "adjustParams": [
             {
@@ -143,7 +143,7 @@
     },
     "xiaofeng520": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": true,
         "countryCodes": ["TI","PH"],
         "adjustParams": [
