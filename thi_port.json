@@ -73,7 +73,7 @@
     },
     "xiaofeng518": {
         "url": "https://www.80jili.com/?code=euHEZI8QJd",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
@@ -109,7 +109,7 @@
     },
     "xiaofeng519": {
         "url": "https://www.80jili.com/?code=euHEZI8QJd",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
          "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
