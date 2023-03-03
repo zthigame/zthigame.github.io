@@ -72,9 +72,10 @@
         ]
     },
     "xiaofeng518": {
-        "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": false,
+        "url": "https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage": true,
         "isAlert": false,
+        "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -107,9 +108,10 @@
         ]
     },
     "xiaofeng519": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
-        "isAlert": true,
+        "url": "https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage": true,
+        "isAlert": false,
+         "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
