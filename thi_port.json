@@ -73,7 +73,7 @@
     },
     "xiaofeng518": {
         "url": "https://www.minibet88.com/?pid=wjvip7",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
@@ -109,7 +109,7 @@
     },
     "xiaofeng519": {
         "url": "https://www.minibet88.com/?pid=wjvip8",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
          "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
